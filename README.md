@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Test-commits-main on this site but my name is Kamil 
+- 👀 I’m interested in new technology and Applied Computer Science
+- 🌱 I’m currently learning English,Chinese,Python,Java Script,Graph Ql,React Native and Electron
+- 💞️ I’m looking to collaborate on only learning new thing or work :D
+- 📫 How to reach me kamil.bialon.work@gmail.com
